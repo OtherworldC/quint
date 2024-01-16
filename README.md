@@ -1,5 +1,8 @@
 # Quint - C Web Server Platform Independent Code
-Part of the Quintessence project
+Part of the Quintessence project.
+
+### Purpose
+To provide platform independent and standardised function prototypes, implementations of non-networking, non-threading parts of the server, and act as a source of truth for the project.
 
 ## License
 MIT License - See LICENSE
